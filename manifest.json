@@ -1,0 +1,14 @@
+{
+  "name": "EnterToSend v2",
+  "description": "Uses the iOS keyboard Return/Send key to submit Discord messages through the local composer. Experimental Endcord compatibility.",
+  "authors": [
+    {
+      "name": "EnterToSend"
+    }
+  ],
+  "main": "index.js",
+  "hash": "fc0be987618e42dbe156db27cf70e73b8d02772355b355982b43832c161af337",
+  "vendetta": {
+    "icon": "SendMessageIcon"
+  }
+}
