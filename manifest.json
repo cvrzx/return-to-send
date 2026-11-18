@@ -1,0 +1,14 @@
+{
+  "name": "ReturnToSend v4",
+  "description": "iOS native Return-to-send; no local send cooldown, immediate next-turn dispatch, draft-based duplicate protection.",
+  "authors": [
+    {
+      "name": "ReturnToSend"
+    }
+  ],
+  "main": "index.js",
+  "hash": "879588ba490d9aa3cd525f2a4d59ff10918c92401a9350d43c7350bd1b74f974",
+  "vendetta": {
+    "icon": "SendMessageIcon"
+  }
+}
