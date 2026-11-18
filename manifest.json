@@ -1,0 +1,14 @@
+{
+  "name": "ReturnToSend v5",
+  "description": "Native iOS Return-to-send with microtask dispatch, batched edit detection, and no local send cooldown.",
+  "authors": [
+    {
+      "name": "ReturnToSend"
+    }
+  ],
+  "main": "index.js",
+  "hash": "4b6254f6cf382f3e4b8a5cd5516d35b207ea00b36419971f20a2ca42f0312300",
+  "vendetta": {
+    "icon": "SendMessageIcon"
+  }
+}
