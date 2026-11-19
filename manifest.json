@@ -1,0 +1,14 @@
+{
+  "name": "ReturnToSend v7",
+  "description": "Native iOS Return-to-send without artificial cooldown. Optional diagnostics and reports are available in plugin settings.",
+  "authors": [
+    {
+      "name": "ReturnToSend"
+    }
+  ],
+  "main": "index.js",
+  "hash": "db95637b907f9fe7ea79822a35cf91af4861023551c367e050979329c80d12c5",
+  "vendetta": {
+    "icon": "SendMessageIcon"
+  }
+}
